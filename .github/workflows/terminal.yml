@@ -3,7 +3,7 @@ name: Generate RSS
 on:
   schedule:
     # каждые 0 и 30 минут (UTC)
-    - cron: '0,30 * * * *'
+    - cron: '0,5 * * * *'
   workflow_dispatch:
 
 concurrency:
@@ -40,7 +40,7 @@ jobs:
 
       - name: Run generator
         run: |
-          python all.py
+          python back/all.py
 
       - name: Prepare Git config
         run: |
