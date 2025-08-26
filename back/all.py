@@ -41,7 +41,7 @@ def format_rss_date(dt: datetime) -> str:
     return dt.strftime("%a, %d %b %Y %H:%M:%S +0300")
 
 
-def fetch_articles(region, url):
+def fetch_articles(region, url, limit=10):
     headers = {
         "User-Agent": (
             "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -60,7 +60,8 @@ def fetch_articles(region, url):
         print(f"Новости не найдены на {url}")
         return articles
 
-    for block in news_blocks:
+    # берём только первые `limit` новостей
+    for block in news_blocks[:limit]:
         link_tag = block.find("a")
         if not link_tag:
             continue
@@ -126,9 +127,9 @@ if __name__ == "__main__":
 
     for region, url in URLS.items():
         try:
-            articles = fetch_articles(region, url)
+            articles = fetch_articles(region, url, limit=10)
             all_articles.extend(articles)
-            print(f"[Регион {region}] собрано {len(articles)} новостей")
+            print(f"[Регион {region}] собрано {len(articles)} новостей (ограничение 10)")
         except Exception as e:
             print(f"[Регион {region}] ошибка: {e}")
 
