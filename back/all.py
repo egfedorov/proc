@@ -11,8 +11,8 @@ URLS = {
 }
 
 
-def parse_date(raw_date: str, raw_time: str | None = None) -> str:
-    """Преобразует дату и время в формат RFC-2822 для RSS."""
+def parse_date(raw_date: str, raw_time: str | None = None) -> datetime:
+    """Возвращает datetime-объект (для сортировки и RSS)."""
     raw_date = raw_date.strip()
 
     if raw_date.lower() == "сегодня":
@@ -32,10 +32,15 @@ def parse_date(raw_date: str, raw_time: str | None = None) -> str:
         except ValueError:
             pass
 
+    return dt
+
+
+def format_rss_date(dt: datetime) -> str:
+    """Конвертирует datetime в строку RSS (RFC-2822)."""
     return dt.strftime("%a, %d %b %Y %H:%M:%S +0300")
 
 
-def fetch_articles(url):
+def fetch_articles(region, url):
     headers = {
         "User-Agent": (
             "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -70,23 +75,25 @@ def fetch_articles(url):
         raw_date = date_tag.get_text(strip=True) if date_tag else ""
         raw_time = time_tag.get_text(strip=True) if time_tag else None
 
-        pub_date = parse_date(raw_date, raw_time)
+        dt = parse_date(raw_date, raw_time)
 
         articles.append({
             "title": title,
             "link": link,
-            "pubDate": pub_date
+            "pubDate": format_rss_date(dt),
+            "dt": dt,  # для сортировки
+            "region": region
         })
 
     return articles
 
 
-def generate_rss(articles, region, filename):
+def generate_rss(articles, filename="all.xml"):
     rss_items = ""
     for art in articles:
         rss_items += f"""
         <item>
-            <title>{art['title']}</title>
+            <title>[{art['region']}] {art['title']}</title>
             <link>{art['link']}</link>
             <pubDate>{art['pubDate']}</pubDate>
         </item>
@@ -95,9 +102,9 @@ def generate_rss(articles, region, filename):
     rss_feed = f"""<?xml version="1.0" encoding="UTF-8" ?>
     <rss version="2.0">
       <channel>
-        <title>Новости прокуратуры (регион {region})</title>
-        <link>{URLS[region]}</link>
-        <description>Региональные новости прокуратуры</description>
+        <title>Новости прокуратуры РФ (агрегатор)</title>
+        <link>{BASE_URL}</link>
+        <description>Новости прокуратуры по всем регионам</description>
         {rss_items}
       </channel>
     </rss>
@@ -108,11 +115,19 @@ def generate_rss(articles, region, filename):
 
 
 if __name__ == "__main__":
+    all_articles = []
+
     for region, url in URLS.items():
         try:
-            articles = fetch_articles(url)
-            filename = f"{region}.xml"   # сохраняем только номер региона
-            generate_rss(articles, region, filename)
-            print(f"[Регион {region}] собрано {len(articles)} новостей → {filename}")
+            articles = fetch_articles(region, url)
+            all_articles.extend(articles)
+            print(f"[Регион {region}] собрано {len(articles)} новостей")
         except Exception as e:
-            print(f"[Регион {region}] ошибка при обработке: {e}")
+            print(f"[Регион {region}] ошибка: {e}")
+
+    # сортируем по дате (от новых к старым)
+    all_articles.sort(key=lambda x: x["dt"], reverse=True)
+
+    # создаём общий RSS
+    generate_rss(all_articles, "all.xml")
+    print(f"✅ Итоговый агрегатор сохранён в all.xml (всего {len(all_articles)} новостей)")
