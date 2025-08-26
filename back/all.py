@@ -1,3 +1,4 @@
+import os
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
@@ -93,7 +94,7 @@ def generate_rss(articles, filename="all.xml"):
     for art in articles:
         rss_items += f"""
         <item>
-            <title>[{art['region']}] {art['title']}</title>
+            <title><![CDATA[[{art['region']}] {art['title']}]]></title>
             <link>{art['link']}</link>
             <pubDate>{art['pubDate']}</pubDate>
         </item>
@@ -110,8 +111,14 @@ def generate_rss(articles, filename="all.xml"):
     </rss>
     """
 
-    with open(filename, "w", encoding="utf-8") as f:
+    # путь в корень репозитория
+    root_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    output_file = os.path.join(root_dir, filename)
+
+    with open(output_file, "w", encoding="utf-8") as f:
         f.write(rss_feed)
+
+    print(f"✅ Итоговый агрегатор сохранён в {output_file}")
 
 
 if __name__ == "__main__":
@@ -128,6 +135,5 @@ if __name__ == "__main__":
     # сортируем по дате (от новых к старым)
     all_articles.sort(key=lambda x: x["dt"], reverse=True)
 
-    # создаём общий RSS
-    generate_rss(all_articles, "../all.xml")
-    print(f"✅ Итоговый агрегатор сохранён в all.xml (всего {len(all_articles)} новостей)")
+    # создаём общий RSS (в корне репозитория)
+    generate_rss(all_articles, "all.xml")
