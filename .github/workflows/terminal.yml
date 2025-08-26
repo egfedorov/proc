@@ -1,0 +1,73 @@
+name: Generate RSS
+
+on:
+  schedule:
+    # каждые 0 и 30 минут (UTC)
+    - cron: '0,30 * * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: generate-rss
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: |
+            requirements.txt
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          fi
+
+      - name: Run generator
+        env:
+          PYTHONPATH: .
+        run: |
+          if [ -f generate_adapted.py ]; then
+            python generate_adapted.py --backend ./backend --out-dir . --collect-mode overwrite
+          else
+            python generate.py --backend ./backend --out-dir . --collect-mode overwrite
+          fi
+
+      - name: Prepare Git config
+        run: |
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+
+      - name: Commit and push changes (if any)
+        env:
+          BRANCH: ${{ github.ref_name }}
+        run: |
+          git add -A
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Auto-update RSS feeds"
+
+          # Подтянуть удалённые изменения без ребейза (merge fast-forward)
+          git pull --no-rebase origin "$BRANCH" || true
+
+          # Запушить обновлённую ветку
+          git push origin HEAD:"$BRANCH"
