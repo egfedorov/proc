@@ -39,14 +39,8 @@ jobs:
           fi
 
       - name: Run generator
-        env:
-          PYTHONPATH: .
         run: |
-          if [ -f generate_adapted.py ]; then
-            python generate_adapted.py --backend ./backend --out-dir . --collect-mode overwrite
-          else
-            python generate.py --backend ./backend --out-dir . --collect-mode overwrite
-          fi
+          python all.py
 
       - name: Prepare Git config
         run: |
