@@ -95,7 +95,7 @@ def generate_rss(articles, filename="all.xml"):
     for art in articles:
         rss_items += f"""
         <item>
-            <title><![CDATA[[{art['region']}] {art['title']}]]></title>
+            <title><![CDATA[{art['title']}]]></title>
             <link>{art['link']}</link>
             <pubDate>{art['pubDate']}</pubDate>
         </item>
