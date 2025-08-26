@@ -129,5 +129,5 @@ if __name__ == "__main__":
     all_articles.sort(key=lambda x: x["dt"], reverse=True)
 
     # создаём общий RSS
-    generate_rss(all_articles, "all.xml")
+    generate_rss(all_articles, "../all.xml")
     print(f"✅ Итоговый агрегатор сохранён в all.xml (всего {len(all_articles)} новостей)")
