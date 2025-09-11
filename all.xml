@@ -6,12 +6,6 @@
         <description>Новости прокуратуры по всем регионам</description>
         
         <item>
-            <title><![CDATA[В Тенькинском районе вынесен приговор за совершение кражи]]></title>
-            <link>https://epp.genproc.gov.ru/web/proc_49/mass-media/news/reg-news?item=107813185</link>
-            <pubDate>Thu, 11 Sep 2025 18:33:00 +0300</pubDate>
-        </item>
-        
-        <item>
             <title><![CDATA[Прокуратура установила нарушение прав жительницы Курска на получение высшего образования в выбранном университете]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_46/mass-media/news/reg-news?item=107754424</link>
             <pubDate>Thu, 11 Sep 2025 18:24:00 +0300</pubDate>
@@ -93,6 +87,12 @@
             <title><![CDATA[Прокуратура Советского района г.Томска направила в суд уголовное дело в отношении томича, похитившего деньги с банковского счета своей подруги]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_70/mass-media/news/reg-news?item=57013237</link>
             <pubDate>Thu, 11 Sep 2025 17:48:00 +0300</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[В Уфе осуждены двое мужчин за дачу взятки и посредничество во взяточничестве]]></title>
+            <link>https://epp.genproc.gov.ru/web/proc_02/mass-media/news/reg-news?item=107822747</link>
+            <pubDate>Thu, 11 Sep 2025 17:39:00 +0300</pubDate>
         </item>
         
         <item>
@@ -312,6 +312,12 @@
         </item>
         
         <item>
+            <title><![CDATA[В Тоцком районе сбытчик наркотиков лишился свободы и мобильного телефона]]></title>
+            <link>https://epp.genproc.gov.ru/web/proc_56/mass-media/news/reg-news?item=107822593</link>
+            <pubDate>Thu, 11 Sep 2025 16:33:00 +0300</pubDate>
+        </item>
+        
+        <item>
             <title><![CDATA[После вмешательства прокуратуры восстановлены права ребенка участника специальной военной операции на получение региональной выплаты]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_66/mass-media/news/reg-news?item=107789045</link>
             <pubDate>Thu, 11 Sep 2025 16:33:00 +0300</pubDate>
@@ -378,12 +384,6 @@
         </item>
         
         <item>
-            <title><![CDATA[В Уфе оглашен приговор по уголовному делу об ограблении при покупке автомобиля за 15 млн рублей]]></title>
-            <link>https://epp.genproc.gov.ru/web/proc_02/mass-media/news/reg-news?item=107745896</link>
-            <pubDate>Thu, 11 Sep 2025 16:16:00 +0300</pubDate>
-        </item>
-        
-        <item>
             <title><![CDATA[Прокуратура Республики Карелия]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_10</link>
             <pubDate>Thu, 11 Sep 2025 16:16:00 +0300</pubDate>
@@ -393,6 +393,12 @@
             <title><![CDATA[Прокуратурой Ножай-Юртовского района выявлены нарушения санитарно-эпидемиологических требований в детском лагере]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_20/mass-media/news/reg-news?item=107740297</link>
             <pubDate>Thu, 11 Sep 2025 16:16:00 +0300</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Прокуратурой Мурманской области организована проверка по факту ДТП со смертельным исходом]]></title>
+            <link>https://epp.genproc.gov.ru/web/proc_51/mass-media/news/reg-news?item=107824238</link>
+            <pubDate>Thu, 11 Sep 2025 16:15:00 +0300</pubDate>
         </item>
         
         <item>
@@ -414,8 +420,20 @@
         </item>
         
         <item>
+            <title><![CDATA[В Большеберезниковском районе прокуратура добивается устранения нарушений в сфере безопасности дорожного движения]]></title>
+            <link>https://epp.genproc.gov.ru/web/proc_13/mass-media/news/reg-news?item=107824107</link>
+            <pubDate>Thu, 11 Sep 2025 16:10:00 +0300</pubDate>
+        </item>
+        
+        <item>
             <title><![CDATA[Прокуратура Коминтерновского района г.Воронежа в судебном порядке защищает социальные права инвалида]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_36/mass-media/news/reg-news?item=107750545</link>
+            <pubDate>Thu, 11 Sep 2025 16:10:00 +0300</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[После вмешательства прокуратуры многодетной семье выдали сертификат на региональный материнский (семейный) капитал]]></title>
+            <link>https://epp.genproc.gov.ru/web/proc_51/mass-media/news/reg-news?item=107824124</link>
             <pubDate>Thu, 11 Sep 2025 16:10:00 +0300</pubDate>
         </item>
         
@@ -426,15 +444,39 @@
         </item>
         
         <item>
+            <title><![CDATA[За хищение денежных средств у знакомого 31 летний житель города Снежногорск осужден к реальному лишению свободы]]></title>
+            <link>https://epp.genproc.gov.ru/web/proc_51/mass-media/news/reg-news?item=107824073</link>
+            <pubDate>Thu, 11 Sep 2025 16:09:00 +0300</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Котласский межрайонный прокурор проверил готовность котельных к началу  отопительного сезона]]></title>
+            <link>https://epp.genproc.gov.ru/web/proc_29/mass-media/news/reg-news?item=107824008</link>
+            <pubDate>Thu, 11 Sep 2025 16:08:00 +0300</pubDate>
+        </item>
+        
+        <item>
             <title><![CDATA[Жительница г.Воронежа осуждена за мошенничество при получении выплат в крупном размере]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_36/mass-media/news/reg-news?item=107750452</link>
             <pubDate>Thu, 11 Sep 2025 16:08:00 +0300</pubDate>
         </item>
         
         <item>
+            <title><![CDATA[После вмешательства надзорного ведомства отремонтирована автомобильная дорога]]></title>
+            <link>https://epp.genproc.gov.ru/web/proc_61/mass-media/news/reg-news?item=107817246</link>
+            <pubDate>Thu, 11 Sep 2025 16:06:00 +0300</pubDate>
+        </item>
+        
+        <item>
             <title><![CDATA[Прокуратура Заволжского района г. Ярославля помогла пенсионеру получить благоустроенное жилье]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_76/mass-media/news/reg-news?item=78092544</link>
             <pubDate>Thu, 11 Sep 2025 16:03:00 +0300</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[В Выгоничах вынесен приговор по уголовному делу о мошенничестве с земельными участками]]></title>
+            <link>https://epp.genproc.gov.ru/web/proc_32/mass-media/news/reg-news?item=107822198</link>
+            <pubDate>Thu, 11 Sep 2025 16:00:00 +0300</pubDate>
         </item>
         
         <item>
@@ -477,12 +519,6 @@
             <title><![CDATA[Благодаря вмешательству прокуратуры общедомовые сети водоотведения приведены в нормативное состояние]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_59/mass-media/news/reg-news?item=107790660</link>
             <pubDate>Thu, 11 Sep 2025 15:51:00 +0300</pubDate>
-        </item>
-        
-        <item>
-            <title><![CDATA[После вмешательства Светлогорской межрайонной прокуратуры ликвидирована несанкционированная свалка]]></title>
-            <link>https://epp.genproc.gov.ru/web/proc_39/mass-media/news/reg-news?item=107562200</link>
-            <pubDate>Thu, 11 Sep 2025 15:50:00 +0300</pubDate>
         </item>
         
         <item>
@@ -600,6 +636,12 @@
         </item>
         
         <item>
+            <title><![CDATA[По постановлению прокурора Зеленоградского района местная жительница оштрафована за оскорбление соседки]]></title>
+            <link>https://epp.genproc.gov.ru/web/proc_39/mass-media/news/reg-news?item=107824348</link>
+            <pubDate>Thu, 11 Sep 2025 15:20:00 +0300</pubDate>
+        </item>
+        
+        <item>
             <title><![CDATA[Прокуратура взяла на контроль расследование несчастного случая на строительстве газопровода во Владивостоке]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_25/mass-media/news/reg-news?item=107730545</link>
             <pubDate>Thu, 11 Sep 2025 15:19:00 +0300</pubDate>
@@ -663,12 +705,6 @@
             <title><![CDATA[В Чудово местный житель осужден за оскорбление и применение насилия в отношении сотрудника полиции]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_53/mass-media/news/reg-news?item=107820936</link>
             <pubDate>Thu, 11 Sep 2025 15:03:00 +0300</pubDate>
-        </item>
-        
-        <item>
-            <title><![CDATA[По иску прокуратуры Правдинского района в муниципальную собственность возвращен незаконно приватизированный земельный участок]]></title>
-            <link>https://epp.genproc.gov.ru/web/proc_39/mass-media/news/reg-news?item=107558681</link>
-            <pubDate>Thu, 11 Sep 2025 15:02:00 +0300</pubDate>
         </item>
         
         <item>
@@ -1161,12 +1197,6 @@
             <title><![CDATA[В Тунгокоченском районе после вмешательства прокуратуры построен мост через реку]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_75/mass-media/news/reg-news?item=107766654</link>
             <pubDate>Thu, 11 Sep 2025 12:40:00 +0300</pubDate>
-        </item>
-        
-        <item>
-            <title><![CDATA[После принятия мер прокурорского реагирования в деревне Новое Чамзино Большеигнатовского района ликвидирована свалка возле кладбища]]></title>
-            <link>https://epp.genproc.gov.ru/web/proc_13/mass-media/news/reg-news?item=107622796</link>
-            <pubDate>Thu, 11 Sep 2025 12:39:00 +0300</pubDate>
         </item>
         
         <item>
@@ -1956,12 +1986,6 @@
         </item>
         
         <item>
-            <title><![CDATA[Александровск-Сахалинский городской прокурор Евгений Шмарин проведет личный прием ветеранов боевых действий, участников СВО и членов их семей]]></title>
-            <link>https://epp.genproc.gov.ru/web/proc_65/mass-media/news/reg-news?item=107811302</link>
-            <pubDate>Thu, 11 Sep 2025 10:39:00 +0300</pubDate>
-        </item>
-        
-        <item>
             <title><![CDATA[В Булунском районе прокуратура защитила трудовые права работника школы]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_14/mass-media/news/reg-news?item=107801535</link>
             <pubDate>Thu, 11 Sep 2025 10:38:00 +0300</pubDate>
@@ -2118,12 +2142,6 @@
         </item>
         
         <item>
-            <title><![CDATA[В Ростовской области прокуратура в судебном порядке добилась предоставления жилья инвалиду]]></title>
-            <link>https://epp.genproc.gov.ru/web/proc_61/mass-media/news/reg-news?item=107697720</link>
-            <pubDate>Thu, 11 Sep 2025 10:16:00 +0300</pubDate>
-        </item>
-        
-        <item>
             <title><![CDATA[В образовательных учреждениях Западнодвинского округа  устранены нарушения бюджетного законодательства]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_69/mass-media/news/reg-news?item=107773886</link>
             <pubDate>Thu, 11 Sep 2025 10:16:00 +0300</pubDate>
@@ -2240,6 +2258,12 @@
         <item>
             <title><![CDATA[В Приморье перед судом предстанет мать, обвиняемая в истязании сына]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_25/mass-media/news/reg-news?item=107763120</link>
+            <pubDate>Thu, 11 Sep 2025 10:02:00 +0300</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[В Черняховске вынесен приговор по уголовному делу об оскорблении представителя власти и угрозе применения насилия]]></title>
+            <link>https://epp.genproc.gov.ru/web/proc_39/mass-media/news/reg-news?item=107822954</link>
             <pubDate>Thu, 11 Sep 2025 10:02:00 +0300</pubDate>
         </item>
         
@@ -2658,12 +2682,6 @@
         </item>
         
         <item>
-            <title><![CDATA[В Ленском районе вынесен приговор в отношении  бывшего начальника отделения почтовой связи]]></title>
-            <link>https://epp.genproc.gov.ru/web/proc_29/mass-media/news/reg-news?item=107731426</link>
-            <pubDate>Thu, 11 Sep 2025 09:05:00 +0300</pubDate>
-        </item>
-        
-        <item>
             <title><![CDATA[Прокуратура в судебном порядке защитила права пожилой женщины, пострадавшей от действий телефонных мошенников]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_12mass-media/news/reg-news?item=107601989</link>
             <pubDate>Thu, 11 Sep 2025 09:03:00 +0300</pubDate>
@@ -2865,6 +2883,12 @@
             <title><![CDATA[По иску прокуратуры Торбеевского района в пользу несовершеннолетнего взыскана компенсация морального вреда]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_13/mass-media/news/reg-news?item=107794043</link>
             <pubDate>Wed, 10 Sep 2025 18:37:00 +0300</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[В Тенькинском районе вынесен приговор за совершение кражи]]></title>
+            <link>https://epp.genproc.gov.ru/web/proc_49/mass-media/news/reg-news?item=107813185</link>
+            <pubDate>Wed, 10 Sep 2025 18:33:00 +0300</pubDate>
         </item>
         
         <item>
@@ -3168,6 +3192,12 @@
         </item>
         
         <item>
+            <title><![CDATA[Александровск-Сахалинский городской прокурор Евгений Шмарин проведет личный прием ветеранов боевых действий, участников СВО и членов их семей]]></title>
+            <link>https://epp.genproc.gov.ru/web/proc_65/mass-media/news/reg-news?item=107811302</link>
+            <pubDate>Wed, 10 Sep 2025 10:39:00 +0300</pubDate>
+        </item>
+        
+        <item>
             <title><![CDATA[Прокуратурой Печенгского района в действиях главы Печенгского муниципального округа выявлен факт незаконного трудоустройства руководителя муниципального предприятия]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_51/mass-media/news/reg-news?item=107771575</link>
             <pubDate>Wed, 10 Sep 2025 10:30:00 +0300</pubDate>
@@ -3261,12 +3291,6 @@
             <title><![CDATA[Прокуратура Республики Карелия]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_10</link>
             <pubDate>Tue, 09 Sep 2025 17:42:00 +0300</pubDate>
-        </item>
-        
-        <item>
-            <title><![CDATA[Прокурор Шарлыкского района потребовал от районной больницы оснастить необходимым оборудованием фельдшерско-акушерские пункты]]></title>
-            <link>https://epp.genproc.gov.ru/web/proc_56/mass-media/news/reg-news?item=107748042</link>
-            <pubDate>Tue, 09 Sep 2025 17:40:00 +0300</pubDate>
         </item>
         
         <item>
@@ -3591,12 +3615,6 @@
             <title><![CDATA[По требованию прокурора недропользователь возместил ущерб, нанесенный лесным участкам]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_49/mass-media/news/reg-news?item=107690217</link>
             <pubDate>Mon, 08 Sep 2025 13:44:00 +0300</pubDate>
-        </item>
-        
-        <item>
-            <title><![CDATA[Прокуратура г. Клинцы восстановила трудовые права работников швейной фабрики]]></title>
-            <link>https://epp.genproc.gov.ru/web/proc_32/mass-media/news/reg-news?item=107703056</link>
-            <pubDate>Mon, 08 Sep 2025 12:47:00 +0300</pubDate>
         </item>
         
         <item>
@@ -3930,12 +3948,6 @@
         </item>
         
         <item>
-            <title><![CDATA[Прокуратура Ленинского административного округа города Мурманска направила в суд уголовное дело о покушении на незаконный сбыт наркотических средств в крупном и особо крупном размере и о приобретении и хранении огнестрельного оружия]]></title>
-            <link>https://epp.genproc.gov.ru/web/proc_51/mass-media/news/reg-news?item=107543892</link>
-            <pubDate>Wed, 03 Sep 2025 09:31:00 +0300</pubDate>
-        </item>
-        
-        <item>
             <title><![CDATA[В Ширинском районе по требованию прокуратуры восстановлены права работников учреждения культуры на получение компенсации расходов на оплату коммунальных услуг]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_19/mass-media/news/reg-news?item=107471452</link>
             <pubDate>Wed, 03 Sep 2025 09:15:00 +0300</pubDate>
@@ -3966,12 +3978,6 @@
         </item>
         
         <item>
-            <title><![CDATA[Прокуратура признала законным возбуждение уголовного дела о применении насилия в отношении сотрудника полиции]]></title>
-            <link>https://epp.genproc.gov.ru/web/proc_51/mass-media/news/reg-news?item=107386540</link>
-            <pubDate>Tue, 02 Sep 2025 13:00:00 +0300</pubDate>
-        </item>
-        
-        <item>
             <title><![CDATA[За хищение шашлыка из магазина супружеская пара обязана будет выплатить штраф в доход государства]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_11/mass-media/news/reg-news?item=107503392</link>
             <pubDate>Tue, 02 Sep 2025 12:00:00 +0300</pubDate>
@@ -3987,12 +3993,6 @@
             <title><![CDATA[По требованию прокуратуры педагогам образовательных учреждений произведен перерасчет заработной платы]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_30/mass-media/news/reg-news?item=107557346</link>
             <pubDate>Mon, 01 Sep 2025 10:00:00 +0300</pubDate>
-        </item>
-        
-        <item>
-            <title><![CDATA[Прокуратурой Ловозерского района выявлены нарушения промышленной безопасности опасных производственных объектов]]></title>
-            <link>https://epp.genproc.gov.ru/web/proc_51/mass-media/news/reg-news?item=107386296</link>
-            <pubDate>Mon, 01 Sep 2025 08:11:00 +0300</pubDate>
         </item>
         
         <item>
