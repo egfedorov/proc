@@ -216,12 +216,6 @@
         </item>
         
         <item>
-            <title><![CDATA[В Омской области взяты под стражу двое лиц, обвиняемых в незаконном обороте редких птиц]]></title>
-            <link>https://epp.genproc.gov.ru/web/proc_55/mass-media/news/reg-news?item=108634086</link>
-            <pubDate>Fri, 10 Oct 2025 16:30:00 +0300</pubDate>
-        </item>
-        
-        <item>
             <title><![CDATA[В Октябрьском районе вынесен приговор по уголовному делу об убийстве]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_08/mass-media/news/reg-news?item=108685960</link>
             <pubDate>Fri, 10 Oct 2025 16:28:00 +0300</pubDate>
@@ -309,6 +303,12 @@
             <title><![CDATA[Направлено в суд уголовное дело по обвинению жителя г. Белгорода в угоне автомобиля]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_31/mass-media/news/reg-news?item=108753312</link>
             <pubDate>Fri, 10 Oct 2025 15:59:00 +0300</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[По требованию прокуратуры возбуждено уголовное дело об осквернении захоронения]]></title>
+            <link>https://epp.genproc.gov.ru/web/proc_41/mass-media/news/reg-news?item=108775458</link>
+            <pubDate>Fri, 10 Oct 2025 15:54:00 +0300</pubDate>
         </item>
         
         <item>
@@ -1398,12 +1398,6 @@
         </item>
         
         <item>
-            <title><![CDATA[Рецидивист предстанет перед судом за 31 покупку с карты несовершеннолетнего]]></title>
-            <link>https://epp.genproc.gov.ru/web/proc_41/mass-media/news/reg-news?item=108610949</link>
-            <pubDate>Fri, 10 Oct 2025 11:40:00 +0300</pubDate>
-        </item>
-        
-        <item>
             <title><![CDATA[В Кемеровской области благодаря вмешательству прокуратуры пенсионеру, пострадавшему от действий телефонных мошенников, возвращены похищенные деньги]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_42/mass-media/news/reg-news?item=108738249</link>
             <pubDate>Fri, 10 Oct 2025 11:40:00 +0300</pubDate>
@@ -1938,6 +1932,12 @@
         </item>
         
         <item>
+            <title><![CDATA[В Омской области к лишению свободы приговорена местная жительница, по вине которой погибла годовалая дочь]]></title>
+            <link>https://epp.genproc.gov.ru/web/proc_55/mass-media/news/reg-news?item=108775579</link>
+            <pubDate>Fri, 10 Oct 2025 10:13:00 +0300</pubDate>
+        </item>
+        
+        <item>
             <title><![CDATA[В ЗАТО г. Новоуральск вынесен приговор по уголовному делу о мошенничестве при оказании туристических услуг на сумму свыше 3,5 млн рублей]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_66/mass-media/news/reg-news?item=108758844</link>
             <pubDate>Fri, 10 Oct 2025 10:12:00 +0300</pubDate>
@@ -2358,6 +2358,12 @@
         </item>
         
         <item>
+            <title><![CDATA[Прокурор Кош-Агачского района провел личный прием граждан в Тобелерском сельском поселении]]></title>
+            <link>https://epp.genproc.gov.ru/web/proc_04/mass-media/news/reg-news?item=108775365</link>
+            <pubDate>Fri, 10 Oct 2025 09:10:00 +0300</pubDate>
+        </item>
+        
+        <item>
             <title><![CDATA[Прокуратурой Чемальского района выявлены нарушения трудового законодательства]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_04/mass-media/news/reg-news?item=108736861</link>
             <pubDate>Fri, 10 Oct 2025 09:10:00 +0300</pubDate>
@@ -2394,20 +2400,14 @@
         </item>
         
         <item>
-            <title><![CDATA[Прокуратура Майминского района поддержала обвинение по уголовному делу о хищении  бюджетных денежных средств, выделенных по государственному сертификату на материнский капитал]]></title>
-            <link>https://epp.genproc.gov.ru/web/proc_04/mass-media/news/reg-news?item=108665617</link>
-            <pubDate>Fri, 10 Oct 2025 09:06:00 +0300</pubDate>
-        </item>
-        
-        <item>
             <title><![CDATA[Прокуратурой Топчихинского района пресечены нарушения трудовых прав работников точки общественного питания]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_22/mass-media/news/reg-news?item=108774411</link>
             <pubDate>Fri, 10 Oct 2025 09:06:00 +0300</pubDate>
         </item>
         
         <item>
-            <title><![CDATA[По представлению прокуратуры города Горно-Алтайска коммерческая организация произвела перерасчет заработной платы работнику с учетом районного коэффициента]]></title>
-            <link>https://epp.genproc.gov.ru/web/proc_04/mass-media/news/reg-news?item=108665595</link>
+            <title><![CDATA[Прокуратурой Майминского района поддержано государственное обвинение по уголовному делу о краже строительных инструментов]]></title>
+            <link>https://epp.genproc.gov.ru/web/proc_04/mass-media/news/reg-news?item=108775348</link>
             <pubDate>Fri, 10 Oct 2025 09:05:00 +0300</pubDate>
         </item>
         
@@ -2448,12 +2448,6 @@
         </item>
         
         <item>
-            <title><![CDATA[В результате вмешательства прокуратуры Усть-Канского района устранены нарушения в сфере водоснабжения]]></title>
-            <link>https://epp.genproc.gov.ru/web/proc_04/mass-media/news/reg-news?item=108665564</link>
-            <pubDate>Fri, 10 Oct 2025 09:03:00 +0300</pubDate>
-        </item>
-        
-        <item>
             <title><![CDATA[В городе Рубцовске не исполнившему обязанность трудоустроиться злостному неплательщику алиментов отменено условное осуждение]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_22/mass-media/news/reg-news?item=108735881</link>
             <pubDate>Fri, 10 Oct 2025 09:03:00 +0300</pubDate>
@@ -2463,6 +2457,12 @@
             <title><![CDATA[В Холме по требованию прокуратуры в здании библиотеки устранены нарушения законодательства о социальной защите инвалидов]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_53/mass-media/news/reg-news?item=108739768</link>
             <pubDate>Fri, 10 Oct 2025 09:03:00 +0300</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Прокуратурой Шебалинского района организован личный прием граждан в Актельском и Чергинском сельских поселениях]]></title>
+            <link>https://epp.genproc.gov.ru/web/proc_04/mass-media/news/reg-news?item=108775300</link>
+            <pubDate>Fri, 10 Oct 2025 09:02:00 +0300</pubDate>
         </item>
         
         <item>
@@ -2649,6 +2649,12 @@
             <title><![CDATA[Прокуратура Судиславского района контролирует установление обстоятельств пожара, в котором погиб пенсионер]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_44/mass-media/news/reg-news?item=108576390</link>
             <pubDate>Fri, 10 Oct 2025 07:18:00 +0300</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Прокуратурой города Североморска организована проверка по факту смерти 32-летней мурманчанки при производстве работ]]></title>
+            <link>https://epp.genproc.gov.ru/web/proc_51/mass-media/news/reg-news?item=108758545</link>
+            <pubDate>Fri, 10 Oct 2025 07:00:00 +0300</pubDate>
         </item>
         
         <item>
@@ -3717,12 +3723,6 @@
             <title><![CDATA[В Солигаличском районе по требованию прокурора оштрафован работодатель за коррупционные нарушения]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_44/mass-media/news/reg-news?item=108628331</link>
             <pubDate>Mon, 06 Oct 2025 11:25:00 +0300</pubDate>
-        </item>
-        
-        <item>
-            <title><![CDATA[Прокуратурой города Мончегорска выявлены нарушения законодательства при реализации мероприятия национального проекта]]></title>
-            <link>https://epp.genproc.gov.ru/web/proc_51/mass-media/news/reg-news?item=108609882</link>
-            <pubDate>Mon, 06 Oct 2025 08:00:00 +0300</pubDate>
         </item>
         
         <item>
