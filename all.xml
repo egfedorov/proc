@@ -6,12 +6,6 @@
         <description>Новости прокуратуры по всем регионам</description>
         
         <item>
-            <title><![CDATA[Прокуратура контролирует установление всех обстоятельств инцидента на строительном объекте на северо-востоке Москвы]]></title>
-            <link>https://epp.genproc.gov.ru/web/proc_77/mass-media/news/reg-news?item=108890684</link>
-            <pubDate>Wed, 15 Oct 2025 21:43:00 +0300</pubDate>
-        </item>
-        
-        <item>
             <title><![CDATA[Прокуратура Еткульского района контролирует ход прохождения отопительного периода в селе Коелга]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_74/mass-media/news/reg-news?item=108922632</link>
             <pubDate>Wed, 15 Oct 2025 19:52:00 +0300</pubDate>
@@ -120,6 +114,12 @@
         </item>
         
         <item>
+            <title><![CDATA[В Володарском муниципальном округе после вмешательства прокуратуры погашена задолженность перед ресурсоснабжающей организацией на сумму свыше 34 млн рублей]]></title>
+            <link>https://epp.genproc.gov.ru/web/proc_52/mass-media/news/reg-news?item=108962403</link>
+            <pubDate>Wed, 15 Oct 2025 17:38:00 +0300</pubDate>
+        </item>
+        
+        <item>
             <title><![CDATA[После вмешательства прокуратуры погашена задолженность по заработной плате на сумму свыше 13 млн рублей]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_77/mass-media/news/reg-news?item=108922380</link>
             <pubDate>Wed, 15 Oct 2025 17:35:00 +0300</pubDate>
@@ -153,6 +153,12 @@
             <title><![CDATA[Прокуратура Ленинского района г.Томска направила в суд уголовное дело в отношении рецидивиста, обвиняемого в квартирной краже и грабеже]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_70/mass-media/news/reg-news?item=57012834</link>
             <pubDate>Wed, 15 Oct 2025 17:19:00 +0300</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Житель с.п. Экажево осужден к лишению свободы за причинение средней тяжести вреда здоровью человека]]></title>
+            <link>https://epp.genproc.gov.ru/web/proc_06/mass-media/news/reg-news?item=108961792</link>
+            <pubDate>Wed, 15 Oct 2025 17:17:00 +0300</pubDate>
         </item>
         
         <item>
@@ -213,12 +219,6 @@
             <title><![CDATA[Юридическое лицо привлечено к ответственности за непредставление информации по требованию прокуратуры]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_63/mass-media/news/reg-news?item=108947131</link>
             <pubDate>Wed, 15 Oct 2025 17:10:00 +0300</pubDate>
-        </item>
-        
-        <item>
-            <title><![CDATA[Первый заместитель прокурора Краснодарского края провел прием граждан в прокуратуре Динского района]]></title>
-            <link>https://epp.genproc.gov.ru/web/proc_23/mass-media/news/reg-news?item=108961279</link>
-            <pubDate>Wed, 15 Oct 2025 17:08:00 +0300</pubDate>
         </item>
         
         <item>
@@ -300,6 +300,12 @@
         </item>
         
         <item>
+            <title><![CDATA[Мужчина приговорен к 11 годам лишения свободы за убийство знакомого]]></title>
+            <link>https://epp.genproc.gov.ru/web/proc_77/mass-media/news/reg-news?item=108962915</link>
+            <pubDate>Wed, 15 Oct 2025 16:50:00 +0300</pubDate>
+        </item>
+        
+        <item>
             <title><![CDATA[В Иванове по требованию прокуратуры восстановлены права несовершеннолетнего ребенка на льготное обеспечение медицинскими изделиями]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_37/mass-media/news/reg-news?item=108882387</link>
             <pubDate>Wed, 15 Oct 2025 16:49:00 +0300</pubDate>
@@ -345,12 +351,6 @@
             <title><![CDATA[Представитель прокуратуры Терновского района провел встречу с сотрудниками администрации на тему профилактики дистанционных мошенничеств]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_36/mass-media/news/reg-news?item=108960120</link>
             <pubDate>Wed, 15 Oct 2025 16:35:00 +0300</pubDate>
-        </item>
-        
-        <item>
-            <title><![CDATA[В Чите прокуратура направила в суд уголовное дело о покушении на дачу взятки за сокрытие незаконного оборота наркотиков]]></title>
-            <link>https://epp.genproc.gov.ru/web/proc_75/mass-media/news/reg-news?item=108945715</link>
-            <pubDate>Wed, 15 Oct 2025 16:34:00 +0300</pubDate>
         </item>
         
         <item>
@@ -588,20 +588,8 @@
         </item>
         
         <item>
-            <title><![CDATA[За самовольное подключение к газопроводу житель с.п. Яндаре осужден к обязательным работам]]></title>
-            <link>https://epp.genproc.gov.ru/web/proc_06/mass-media/news/reg-news?item=108796771</link>
-            <pubDate>Wed, 15 Oct 2025 15:41:00 +0300</pubDate>
-        </item>
-        
-        <item>
             <title><![CDATA[Прокурор Игринского района в судебном порядке защитил права пенсионерки, пострадавшей от действий мошенников]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_18/mass-media/news/reg-news?item=108914318</link>
-            <pubDate>Wed, 15 Oct 2025 15:40:00 +0300</pubDate>
-        </item>
-        
-        <item>
-            <title><![CDATA[В Выксе местный житель осужден за коммерческий подкуп]]></title>
-            <link>https://epp.genproc.gov.ru/web/proc_52/mass-media/news/reg-news?item=108755052</link>
             <pubDate>Wed, 15 Oct 2025 15:40:00 +0300</pubDate>
         </item>
         
@@ -776,12 +764,6 @@
         <item>
             <title><![CDATA[В суд направлено уголовное дело о взяточничестве в особо крупном размере]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_26/mass-media/news/reg-news?item=108903710</link>
-            <pubDate>Wed, 15 Oct 2025 15:00:00 +0300</pubDate>
-        </item>
-        
-        <item>
-            <title><![CDATA[В городе Белогорске к исправительным работам осуждена 42-летняя женщина за неуплату без уважительных причин алиментов на содержание несовершеннолетних детей]]></title>
-            <link>https://epp.genproc.gov.ru/web/proc_28/mass-media/news/reg-news?item=108907904</link>
             <pubDate>Wed, 15 Oct 2025 15:00:00 +0300</pubDate>
         </item>
         
@@ -2064,12 +2046,6 @@
         </item>
         
         <item>
-            <title><![CDATA[В Хангаласском районе приняты меры в связи с нарушением срока выплаты заработной платы несовершеннолетним работникам]]></title>
-            <link>https://epp.genproc.gov.ru/web/proc_14/mass-media/news/reg-news?item=108935191</link>
-            <pubDate>Wed, 15 Oct 2025 10:40:00 +0300</pubDate>
-        </item>
-        
-        <item>
             <title><![CDATA[Удовлетворен иск прокурора о взыскании в пользу пострадавшего в ДТП подростка компенсации в размере 450 тысяч рублей]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_38/mass-media/news/reg-news?item=108898691</link>
             <pubDate>Wed, 15 Oct 2025 10:40:00 +0300</pubDate>
@@ -2168,6 +2144,12 @@
         <item>
             <title><![CDATA[Прокуратура г. Прохладного провела встречу со старшеклассниками МБОУ «Гимназия № 6»]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_07/mass-media/news/reg-news?item=108888714</link>
+            <pubDate>Wed, 15 Oct 2025 10:23:00 +0300</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Прокуратура Нестеровского района добивается сноса самовольной постройки на территории национального парка «Виштынецкий»]]></title>
+            <link>https://epp.genproc.gov.ru/web/proc_39/mass-media/news/reg-news?item=108961909</link>
             <pubDate>Wed, 15 Oct 2025 10:23:00 +0300</pubDate>
         </item>
         
@@ -2406,6 +2388,12 @@
         </item>
         
         <item>
+            <title><![CDATA[В результате принудительного исполнения исковых требований прокурора Курганинского района здание поликлиники приведено в соответствие требованиям о пожарной безопасности]]></title>
+            <link>https://epp.genproc.gov.ru/web/proc_23/mass-media/news/reg-news?item=108943592</link>
+            <pubDate>Wed, 15 Oct 2025 09:52:00 +0300</pubDate>
+        </item>
+        
+        <item>
             <title><![CDATA[По постановлению прокурора Нестеровского района местная жительница оштрафована за оскорбление]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_39/mass-media/news/reg-news?item=108906560</link>
             <pubDate>Wed, 15 Oct 2025 09:52:00 +0300</pubDate>
@@ -2415,12 +2403,6 @@
             <title><![CDATA[В Октябрьском судом рассмотрено уголовное дело о ДТП с участием несовершеннолетних]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_59/mass-media/news/reg-news?item=108793686</link>
             <pubDate>Wed, 15 Oct 2025 09:50:00 +0300</pubDate>
-        </item>
-        
-        <item>
-            <title><![CDATA[Прокуратура Нестеровского района в судебном порядке защищает права пенсионерки, пострадавшей от телефонного мошенничества]]></title>
-            <link>https://epp.genproc.gov.ru/web/proc_39/mass-media/news/reg-news?item=108872497</link>
-            <pubDate>Wed, 15 Oct 2025 09:49:00 +0300</pubDate>
         </item>
         
         <item>
@@ -3048,6 +3030,12 @@
         </item>
         
         <item>
+            <title><![CDATA[В Чите прокуратура направила в суд уголовное дело о покушении на дачу взятки за сокрытие незаконного оборота наркотиков]]></title>
+            <link>https://epp.genproc.gov.ru/web/proc_75/mass-media/news/reg-news?item=108945715</link>
+            <pubDate>Tue, 14 Oct 2025 16:34:00 +0300</pubDate>
+        </item>
+        
+        <item>
             <title><![CDATA[По материалам прокурорской проверки оператор сотовой связи оштрафован  более чем на миллион рублей за пропуск звонков с подменных номеров]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_52/mass-media/news/reg-news?item=108919934</link>
             <pubDate>Tue, 14 Oct 2025 16:25:00 +0300</pubDate>
@@ -3105,6 +3093,12 @@
             <title><![CDATA[Судом удовлетворено ходатайство осужденного о замене неотбытой части наказания в виде лишения свободы более мягким видом наказания]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_64/mass-media/news/reg-news?item=108915935</link>
             <pubDate>Tue, 14 Oct 2025 15:09:00 +0300</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[В городе Белогорске к исправительным работам осуждена 42-летняя женщина за неуплату без уважительных причин алиментов на содержание несовершеннолетних детей]]></title>
+            <link>https://epp.genproc.gov.ru/web/proc_28/mass-media/news/reg-news?item=108907904</link>
+            <pubDate>Tue, 14 Oct 2025 15:00:00 +0300</pubDate>
         </item>
         
         <item>
@@ -3225,6 +3219,12 @@
             <title><![CDATA[В Одинцово по постановлению прокуратуры коммерческая организация оштрафована на 500 тыс. рублей за совершение коррупционного правонарушения]]></title>
             <link>https://epp.genproc.gov.ru/web/proc_50/mass-media/news/reg-news?item=108907325</link>
             <pubDate>Tue, 14 Oct 2025 11:01:00 +0300</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[В Хангаласском районе приняты меры в связи с нарушением срока выплаты заработной платы несовершеннолетним работникам]]></title>
+            <link>https://epp.genproc.gov.ru/web/proc_14/mass-media/news/reg-news?item=108935191</link>
+            <pubDate>Tue, 14 Oct 2025 10:40:00 +0300</pubDate>
         </item>
         
         <item>
